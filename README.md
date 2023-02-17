@@ -12,3 +12,14 @@
 
 >Task 1
 
+![Model](img/Create_Room.png)
+
+![Model](img/Add_User.png)
+
+>Task 2
+
+![Model](img/Send_URL.png)
+
+>Task 3
+
+![Model](img/Send_Message.png)
